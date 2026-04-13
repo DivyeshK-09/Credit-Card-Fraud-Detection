@@ -1,9 +1,4 @@
 
----
-
-# 2. Credit Card Fraud Detection
-
-```md
 # Credit Card Fraud Detection
 
 ## Overview
